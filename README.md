@@ -15,13 +15,14 @@ The platform is built using the following programming languages:
 - HTML
 - JavaScript
 - CSS
+- mysql
 
 ## Details
 ### HTML Pages
-- **Home Page**
-- **Services**
-- **Register**
-- **About Us**
+- **Home Page** - enables a general view of the page and also has the links to the other pages
+- **Services** - gives a general view of all the services offered
+- **Register** - prompt one to authenticate his/her deatails to create an account
+- **About Us** - contain info about the Business owner's
 
 ### Home Page
 The home page features:
@@ -32,6 +33,7 @@ The home page features:
 
 ### Services
 The Services page provides information about the cyber services offered.
+One is able to upload his documents
 
 ### Register
 This page allows users to register for the platform.
