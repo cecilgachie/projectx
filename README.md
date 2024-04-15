@@ -27,8 +27,8 @@ The platform is built using the following programming languages:
 ### Home Page
 The home page features:
 - **F9CyberTech** (Name)
-- Navbar
-- Footer
+- Navbar - have the link to the other pages connected to the main
+- Footer - have the social media platform to reach for extra info
 - Body
 
 ### Services
