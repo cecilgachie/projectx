@@ -36,7 +36,8 @@ The Services page provides information about the cyber services offered.
 One is able to upload his documents
 
 ### Register
-This page allows users to register for the platform.
+This page allows users to register for the platform for the first time, and login for the second visit
+
 
 ## Usage
 Guest Mode:
